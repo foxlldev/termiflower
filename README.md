@@ -1,4 +1,4 @@
-<img src="https://wthrd.co/d/of/assets/terflo-banner-1900x604-wfade-wlogo.png>
+<img src="https://wthrd.co/d/of/assets/terflo-banner-1900x604-wfade-wlogo.png">
 
 # Termiflower
 The Termiflower (previously 'greenhousegame') game information.  
