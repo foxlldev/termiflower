@@ -9,8 +9,7 @@ Since then, I have lost the files entirely - but, I remade it!.
 See 'How to Play' for information on how to get the game.  
 
 # How to Play
-You can play this game via [Withered Hub](https://withered.app/hub). Just run the JAR file (requires Java 17 or higher)  
-and select 'Termiflower' under the Games section.  
+You can play this game via [Withered Hub](https://withered.app/hub). Just run the JAR file (requires Java 17 or higher) and select 'Termiflower' under the Games section.  
 Now click 'LAUNCH LATEST' to run the latest version of the game.  
 Once it has downloaded and launched (requires internet connection), you can press the 'start' button to start the game.  
 Then, just type 'help' in the terminal to get a list of commands.
